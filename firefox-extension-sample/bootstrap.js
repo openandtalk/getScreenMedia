@@ -2,7 +2,7 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/.
  */
-var domains = ["simplewebrtc.com"];
+var domains = ["openandtalk.com"];
 var addon_domains = []; // list of domains the addon added
 var PREF = "media.getusermedia.screensharing.allowed_domains";
 
